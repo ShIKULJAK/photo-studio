@@ -145,8 +145,6 @@ footer form button {
     background: var(--zelena);
     border: 1px solid var(--zelena);
     padding: 5px 7px;
-    /* position: relative;
-    top: -10px */
     margin-top: 0;
 }
 
